@@ -1,2 +1,7 @@
-__pycache__/
+# Existing .gitignore content from the main branch
 *.log
+__pycache__/
+
+# Content from the 'tes' branch
+.env
+*.bak
